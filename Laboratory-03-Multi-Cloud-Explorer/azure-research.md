@@ -36,3 +36,6 @@ The Azure Portal is the web-based management console used to create, configure, 
 ## Screenshot Evidence
 
 Screenshot of the official Microsoft Azure website or Azure Portal.
+## Screenshot Evidence
+
+![Microsoft Azure Management Console](screenshots/azure-homepage.png)
