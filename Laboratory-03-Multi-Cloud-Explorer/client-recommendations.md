@@ -71,3 +71,8 @@ AWS is recommended because the company needs highly available infrastructure tha
 | AI / Machine Learning | Google Cloud Platform | Strong AI and ML capabilities through services such as Vertex AI and specialized computing resources. |
 | Kubernetes Deployment | Google Cloud Platform | Google Kubernetes Engine provides a managed Kubernetes environment. |
 | Global Web Application | AWS | Global infrastructure, load balancing, and automatic scaling support worldwide applications. |
+## Sources
+
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [Microsoft Azure Documentation](https://learn.microsoft.com/azure/)
+- [Google Cloud Documentation](https://cloud.google.com/docs)
