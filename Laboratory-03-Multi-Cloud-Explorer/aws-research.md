@@ -13,3 +13,5 @@
 ## Typical Enterprise Use Cases
 
 ## Screenshot Evidence
+
+![AWS Homepage](screenshots/aws-homepage.png)
