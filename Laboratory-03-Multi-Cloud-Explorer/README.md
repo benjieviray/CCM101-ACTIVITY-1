@@ -26,6 +26,32 @@ Course and Section: BSIT 4F
 - `free -h` - displays memory information.
 - `df -h` - displays disk usage and available storage.
 
+### Commands Used
+
+- `cat /etc/os-release` - identifies the operating system and version.
+- `lscpu` - displays CPU and architecture information.
+- `free -h` - displays memory information.
+- `df -h` - displays disk usage and available storage.
+
+### Screenshot Evidence
+
+#### Operating System
+
+![KillerCoda Operating System](screenshots/killecoda-os.png)
+
+#### CPU Information
+
+![KillerCoda CPU Information](screenshots/killecoda-cpu.png)
+
+#### Memory
+
+![KillerCoda Memory Information](screenshots/killecoda-memory.png)
+
+#### Disk Space
+
+![KillerCoda Disk Space](screenshots/killecoda-disk.png)
+
+
 ## Cloud Hosting Options
 
 ### AWS
