@@ -39,3 +39,7 @@ Screenshot of the official Microsoft Azure website or Azure Portal.
 ## Screenshot Evidence
 
 ![Microsoft Azure Management Console](screenshots/azure-homepage.png)
+## Sources
+
+- [Microsoft Azure Official Website](https://azure.microsoft.com/)
+- [Microsoft Azure Documentation](https://learn.microsoft.com/azure/)
