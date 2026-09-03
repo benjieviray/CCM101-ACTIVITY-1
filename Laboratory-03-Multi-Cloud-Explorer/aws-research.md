@@ -15,3 +15,7 @@
 ## Screenshot Evidence
 
 ![AWS Homepage](screenshots/aws-homepage.png)
+## Sources
+
+- [AWS Official Website](https://aws.amazon.com/)
+- [AWS Documentation](https://docs.aws.amazon.com/)
