@@ -34,3 +34,7 @@ Google Cloud Console is the web-based management interface used to create, confi
 - Cloud database management
 ## Screenshot Evidence
 ![Google Cloud Console](screenshots/gcp-homepage.png)
+## Sources
+
+- [Google Cloud Official Website](https://cloud.google.com/)
+- [Google Cloud Documentation](https://cloud.google.com/docs)
