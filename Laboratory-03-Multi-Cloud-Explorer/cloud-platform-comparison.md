@@ -50,3 +50,8 @@ I would personally choose Microsoft Azure because it provides a wide range of cl
 | AI / Machine Learning | Google Cloud Platform | GCP provides strong AI and ML services, including Vertex AI and specialized computing resources. |
 | Kubernetes Deployment | Google Cloud Platform | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service. |
 | Global Web Application | AWS | AWS provides scalable infrastructure and a large global cloud footprint for worldwide applications. |
+## Sources
+
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [Microsoft Azure Documentation](https://learn.microsoft.com/azure/)
+- [Google Cloud Documentation](https://cloud.google.com/docs)
