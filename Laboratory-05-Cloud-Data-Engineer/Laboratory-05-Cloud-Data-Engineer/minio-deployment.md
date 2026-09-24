@@ -1,3 +1,0 @@
-# MinIO Deployment
-
-## Deployment Steps
