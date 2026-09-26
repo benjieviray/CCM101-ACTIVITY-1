@@ -1,21 +1,21 @@
 # Reflection
 
-## 1. Why is Object Storage more suitable for millions of photos than Block Storage?
+## 1. Why is Object Storage more appropriate for millions of photos than Block Storage?
 
-Object Storage is more suitable for millions of photos because it is designed to store large amounts of unstructured data such as images. It allows photos to be stored as individual objects and accessed through a storage service.
+Object Storage is more appropriate for millions of photos because it is designed to store large amounts of unstructured data such as images. It can scale as the number of photos increases, while Block Storage is more commonly used for applications, databases, and virtual machines that require direct disk access.
 
-## 2. How did Docker make deploying MinIO easier?
+## 2. How did Docker make the MinIO deployment easier?
 
-Docker made deploying MinIO easier because the service could be launched using a single Docker command. It also provided the required ports and environment variables without needing to install and configure MinIO manually.
+Docker makes deployment easier because MinIO can run inside a container without requiring a full manual installation of the application and its dependencies. The Docker command also allows the required ports and environment variables to be configured when starting the container.
 
-## 3. What is a bucket?
+## 3. What is a “bucket” in Object Storage?
 
-A bucket is a container used to organize and store objects in an object storage system. In this activity, the bucket named `client-photos` is used for storing the client's test files.
+A bucket is a container used to organize and store objects in an object storage system. In this activity, the bucket named `client-photos` is intended to store the client's uploaded photos.
 
-## 4. How does enterprise object storage help protect data after a physical server crash?
+## 4. If a physical server crashes, how does an enterprise cloud platform ensure data durability?
 
-Enterprise object storage is designed to provide reliable storage for large amounts of data. Its storage architecture can help keep data available even when individual physical hardware fails.
+An enterprise cloud platform can use storage systems designed for durability and availability so that data is protected from individual hardware failures. The activity highlights the importance of cloud storage for handling large amounts of data reliably.
 
-## 5. How confident are you using the Linux command line after this activity?
+## 5. How confident are you now using the Linux command line?
 
-After this activity, I became more confident using the Linux command line because I was able to run Docker commands, deploy a MinIO container, and verify that the service was running. I also learned how command-line tools can be used to manage containerized applications.
+I am more confident using the Linux command line after working with Docker commands. I learned how to start Docker, check running containers, and use commands to deploy a containerized application. I also became more comfortable following command-line instructions and checking command output for errors.
